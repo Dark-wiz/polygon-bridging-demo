@@ -1,0 +1,19 @@
+{
+  "name": "polygon-bridging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.5.0",
+    "@maticnetwork/maticjs-ethers": "^1.0.2",
+    "@maticnetwork/maticjs-web3": "^1.0.2",
+    "@truffle/hdwallet-provider": "^2.1.1",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
